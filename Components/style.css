@@ -1,0 +1,39 @@
+.demo{
+    color: orange;
+}
+
+.demo1{
+    color: red;;
+}
+.demo2{
+    color: pink;
+}
+.demo3{
+    color: green;
+}
+.demo4{
+    color: blue;
+}
+.demo5{
+    color: red;
+
+}
+.btn{
+    color: red;
+    width: 4rem;
+    height: 2rem;
+    border-radius: 8px;
+    border: 2px solid black;
+}
+.btn:hover{
+    color: blue;
+}
+.btn::after{
+    color:orange;
+}
+.contact{
+    margin-right: 1rem;
+}
+.didmount{
+    color: red;
+}
